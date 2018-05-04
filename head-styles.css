@@ -1,0 +1,27 @@
+div.logo img {
+    width: 100px;
+};
+
+@media only screen and (min-width: 600px) {
+    div.logo img {
+        width: 100px;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    div.logo img {
+        width: 100px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    div.logo img {
+        width: 100px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    div.logo img {
+        width: 200px;
+    }
+}
